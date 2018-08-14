@@ -5,6 +5,7 @@ public class LinkedListMultiset<T> extends Multiset<T>
 {
 	public LinkedListMultiset() {
 		// Implement me!  Abdullah could u do this part!
+		yup sure
 	} // end of LinkedListMultiset()
 	
 	
