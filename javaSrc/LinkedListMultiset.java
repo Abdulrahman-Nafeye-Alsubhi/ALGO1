@@ -4,7 +4,7 @@ import java.util.*;
 public class LinkedListMultiset<T> extends Multiset<T>
 {
 	public LinkedListMultiset() {
-		// Implement me!
+		// Implement me!  Abdullah could u do this part!
 	} // end of LinkedListMultiset()
 	
 	
